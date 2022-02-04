@@ -1,2 +1,2 @@
 # Implementation
-* In C programming
+* Code in C programming
