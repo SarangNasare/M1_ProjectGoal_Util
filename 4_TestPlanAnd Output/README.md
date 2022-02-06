@@ -5,4 +5,8 @@
     * Capture the actual result
 
 # Table
-* ID, Description of Test case, Input values, Expected Output, Actual Output
+* ID 
+* Description of Test case
+* Input values
+* Expected Output
+* Actual Output
