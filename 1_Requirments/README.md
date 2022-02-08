@@ -1,8 +1,7 @@
 # Description
-    
+ * ATM machine
 
 # Requirments
-  
 # High Level Requirments
     
 # Low Level Requirments
