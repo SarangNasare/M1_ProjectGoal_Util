@@ -1,5 +1,5 @@
 # Description
- * ATM machine(Automatic Tailor Machine) allows people to do banking transactions like cheak balance,withdraw money, without visiting the bank.
+ * ATM machine(Automatic Teller Machine) allows people to do banking transactions like cheak balance,withdraw money, without visiting the bank.
 
 # Requirments
 ## High Level Requirments

@@ -1,2 +1,2 @@
 # M1_Teaching_Game
-    Create miniproject using c language
+    Create ATM (Automatic Teller Machine) miniproject using c language
