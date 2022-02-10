@@ -22,6 +22,7 @@
 
 ## Weakness
  * Lack of graphical user interface.
+ * If your pin is leaked it might damage your account.
 
 ## Opportunity
  * Since now a days people have very less time in their busy life this kind of machines are required.
