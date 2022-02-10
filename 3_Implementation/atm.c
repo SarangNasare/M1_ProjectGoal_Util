@@ -1,14 +1,54 @@
+/**
+ * @file atm.c
+ * @author Sarang Nasare (sarang.nasare@gmail.com)
+ * @brief Header files
+ * @version 0.1
+ * @date 2022-02-10
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include <stdio.h>
 #include <stdlib.h>
 
-float Balance=25000;
+/**
+ * @brief shows menu conating the options like balance enquiry, withdraw, deposit and exit.
+ * 
+ * @return int 
+ */
 int Menu();
+/**
+ * @brief shows the account balance.
+ * 
+ * @return float 
+ */
 float Balanceenquiry();
+/**
+ * @brief adds the amount to the existing balance and shows the new balance. 
+ * 
+ * @return float 
+ */
 float Deposit(float,int);
+/**
+ * @brief this function cheaks the entered amount is ou have enough balance or not is yes then deducts from your balance.
+ * 
+ * @return float 
+ */
 float Withdraw(float,int);
+/**
+ * @brief exits the code.
+ * 
+ * @return int 
+ */
 int Exit();
+/**
+ * @brief cheaks if pin is right or not to do the balance enquiry,deposite and witdraw action.
+ * 
+ * @return int 
+ */
 int EnterPin(int);
 
+float Balance=25000;
 int main(){
 	int action,amount,pin,pass=1234;
 	
@@ -16,7 +56,7 @@ int main(){
 	 
 	 switch(action){
 	 
-	 	case 1:
+	 	case 1:   //if user enters 1
 	 		system("CLS");
 	 		printf("\nEnter Pin\n");
 	 		scanf("%d",&pin);
@@ -33,7 +73,7 @@ int main(){
 	 		break;
 	 		
 	 		
-	 	case 2:
+	 	case 2:    //if user enters 2
 	 		system("CLS");
 	 		printf("\nEnter Pin\n");
 	 		scanf("%d",&pin);
@@ -56,7 +96,7 @@ int main(){
 			 }
 	 		break;
 	 		
-	 	case 3:
+	 	case 3:    //if user enters 3
 	 		system("CLS");
 	 		printf("\nEnter Pin\n");
 	 		scanf("%d",&pin);
@@ -86,7 +126,7 @@ int main(){
 			}
 			break;
 			
-		case 4:
+		case 4:   ////if user enters 4
 			system("CLS");
 			
 	 		Exit();
