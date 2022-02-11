@@ -11,6 +11,12 @@
 ## Static Check
 [![cppcheak](https://github.com/SarangNasare/M1_ProjectGoal_Util/actions/workflows/Static-Check.yml/badge.svg)](https://github.com/SarangNasare/M1_ProjectGoal_Util/actions/workflows/Static-Check.yml)
 
+## Code Quality Codacy
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/64c0cbc8a26741f6ac81353541dfdd7f)](https://www.codacy.com/gh/SarangNasare/M1_ProjectGoal_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SarangNasare/M1_ProjectGoal_Util&amp;utm_campaign=Badge_Grade)
+
+## Code Inspector
+https://api.codiga.io/project/31100/score/svg
+
 # Folder Description
 | Folder Name | Description |
 |:-------:|:-----------:|
