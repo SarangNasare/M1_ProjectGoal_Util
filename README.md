@@ -3,6 +3,11 @@
  * ATM machine(Automatic Teller Machine) allows people to do banking transactions like cheak balance,withdraw money, without visiting the bank.
  * Create ATM (Automatic Teller Machine) miniproject using c language
 
+
+
+## Build Status
+[![Build-linux](https://github.com/SarangNasare/M1_ProjectGoal_Util/actions/workflows/Build-linux.yml/badge.svg)](https://github.com/SarangNasare/M1_ProjectGoal_Util/actions/workflows/Build-linux.yml)
+
 # Folder Description
 | Folder Name | Description |
 |:-------:|:-----------:|
