@@ -8,6 +8,9 @@
 ## Build Status
 [![Build-linux](https://github.com/SarangNasare/M1_ProjectGoal_Util/actions/workflows/Build-linux.yml/badge.svg)](https://github.com/SarangNasare/M1_ProjectGoal_Util/actions/workflows/Build-linux.yml)
 
+## Static Check
+[![cppcheak](https://github.com/SarangNasare/M1_ProjectGoal_Util/actions/workflows/Static-Check.yml/badge.svg)](https://github.com/SarangNasare/M1_ProjectGoal_Util/actions/workflows/Static-Check.yml)
+
 # Folder Description
 | Folder Name | Description |
 |:-------:|:-----------:|
