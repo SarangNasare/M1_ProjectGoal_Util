@@ -1,7 +1,7 @@
 
 #include"atm.h"
 
-
+// show main menu
 int Menu() {
  	int action;
     printf("\n Hello:)   Welcome to ATM Banking\n\n");
@@ -14,11 +14,13 @@ int Menu() {
     return action;
 }
 
+//Show account Balance
 float Balanceenquiry(float x){
 	
 	return x;
 }
 
+//Add the amount to the existing amount and display ammount
 float Deposit(float x,int y){
 	int z;
 	z=x+y;
@@ -26,6 +28,7 @@ float Deposit(float x,int y){
 	
 }
 
+//Subtract the amount withdrawn from the main balance and show balance
 float Withdraw(float x,int y){
 	if(y>x){
 		return 0;
@@ -36,6 +39,7 @@ float Withdraw(float x,int y){
 	}
 }
 
+//exit from code
 int Exit(){
 	printf("\nThankyou for using ATM Services\n");
 	printf("\nVisit Again\n");
@@ -43,6 +47,7 @@ int Exit(){
     return 0;
 }
 
+//check the pin entered is correct or not if not the pass error
 int EnterPin(int x){
 	int pass=1234;
 	if(x==pass){
