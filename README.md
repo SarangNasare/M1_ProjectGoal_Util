@@ -16,7 +16,7 @@
 
 ## Code Inspector
 ![Code grade](https://api.codiga.io/project/31100/score/svg)
-
+![Code grade](https://api.codiga.io/project/31100/status/svg)
 # Folder Description
 | Folder Name | Description |
 |:-------:|:-----------:|
