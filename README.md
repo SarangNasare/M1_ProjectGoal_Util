@@ -5,7 +5,7 @@
 
 # Folder Description
         | Folder Name | Description |
-        |:------------:|:-----------:|
+        |:-----------:|:-----------:|
         | 0_Certificates | All the required certificates | 
         | 1_Requirments | Detailed document about high/low level requirments SWOT analysis and 5W&1H  |
         | 2_Architecture | Structural and flow diagrams of project |
