@@ -85,3 +85,8 @@
 
 # Project working
 ![project working](https://user-images.githubusercontent.com/98864424/153477162-b0e3f0fd-d513-4e3e-9992-61666a902aad.jpg)
+
+# References
+ * https://github.com/stepin654321/MiniProject_Template.git
+ * https://github.com/Thotakura-Bhavya/Stepin_ATM_miniproject.git
+ * https://github.com/ankitakondagoli/stepin_Bank-Management.git
