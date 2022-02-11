@@ -5,7 +5,7 @@ int main(){
 	
 	 action=Menu();
 	 
-	 switch(action){
+	 switch(action){          //check the input of user
 	 
 	 	case 1:   //if user enters 1
 	 		system("CLS");
@@ -77,7 +77,7 @@ int main(){
 			}
 			break;
 			
-		case 4:   ////if user enters 4
+		case 4:   //if user enters 4
 			system("CLS");
 			
 	 		Exit();
