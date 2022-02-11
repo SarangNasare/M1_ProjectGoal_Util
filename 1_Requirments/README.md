@@ -3,16 +3,21 @@
 
 # Requirments
 ## High Level Requirments
- * Main Menu
- * Balance Enquiry
- * Deposit
- * Withdraw
+ | --ID | Desciption | Status |
+|:------------:|:-----------:|:---------:|
+ | HLR1 | Main Menu | Implemented |
+ | HLR2 | Balance Enquiry | Implemented |
+ | HLR3 | Deposit | Implemented |
+ | HLR4 | Withdraw | Implemented |
     
 ## Low Level Requirments
-  * Easy Interface.
-  * Taking,Reading and Cheaking proper input from user.
-  * Doing proper task as per user requirment.
-  * Should display the updated balance after the transaction.
+   | --ID | Desciption | Status |
+  |:------------:|:-----------:|:---------:|
+  | LLR1 | Easy Interface. | Implemented |
+  | LLR2 | Taking,Reading and Cheaking proper input from user. | Implemented |
+  | LLR3 | Doing proper task as per user requirment. | Implemented |
+  | LLR4 | Should display the updated balance after the transaction. | Implemented |
+
 
 # SWOT
  ## Strength
