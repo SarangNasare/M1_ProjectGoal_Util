@@ -69,7 +69,7 @@
     
 ## Design
  * Flowcharts
-    ![flow diagram](https://user-images.githubusercontent.com/98864424/153283426-b7f6c14f-98c3-4195-bcd0-e64fa240b867.png)
+    ![flow diagram](https://user-images.githubusercontent.com/98864424/153557695-dd745366-3578-49ff-b393-983888c9d30f.png)
  * Use case diagrams
     ![features](https://user-images.githubusercontent.com/98864424/153333487-4ba1cab3-24b7-4e85-984b-27bb2154e8c9.png)
 
