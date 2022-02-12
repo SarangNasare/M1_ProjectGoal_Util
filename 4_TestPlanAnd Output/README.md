@@ -1,6 +1,5 @@
 # Test Plan  
 ## Table(unit testing)
-
 | Test ID   | Description of Test case | Input values | Expected Output | Actual Output | Status ||Type of test |
 |:-----:|:--------------------------:|:--------------:|:-----------------:|:---------------:|:---------:|:-------:|
 | R1  | Balance Enquiry | 25000 |25000| 25000|SUCCESS| Unit Test|
@@ -9,7 +8,6 @@
 
 
 ## Table(Manual Testing)
-
 | Test ID   | Description of Test case | Input values | Expected Output | Actual Output | Status ||Type of test |
 |:-----:|:--------------------------:|:--------------:|:-----------------:|:---------------:|:---------:|:-------:|
 | R1  | Balance Enquiry | pin correct |Show balance| Balance shown |SUCCESS| Manual Test|
