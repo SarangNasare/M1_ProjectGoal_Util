@@ -1,4 +1,4 @@
-# M1_Teaching_Game
+# M1_ProjectGoal_Util
 # Description
  * ATM machine(Automatic Teller Machine) allows people to do banking transactions like cheak balance,withdraw money, without visiting the bank.
  * Create ATM (Automatic Teller Machine) miniproject using c language
